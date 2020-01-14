@@ -1,0 +1,169 @@
+Constructing empty BST
+BST is empty
+
+Now insert a bunch of integers into the BST.
+Try items not in the BST and some that are in it:
+Item to insert (-999 to stop): 50
+Leaf count: 1
+Level by level: 50
+Item to insert (-999 to stop): 40
+Leaf count: 1
+Level by level: 50 40
+Item to insert (-999 to stop): 60
+Leaf count: 2
+Level by level: 50 40 60
+Item to insert (-999 to stop): 39
+Leaf count: 2
+Level by level: 50 40 60 39
+Item to insert (-999 to stop): 41
+Leaf count: 3
+Level by level: 50 40 60 39 41
+Item to insert (-999 to stop): 56
+Leaf count: 3
+Level by level: 50 40 60 39 41 56
+Item to insert (-999 to stop): 61
+Leaf count: 4
+Level by level: 50 40 60 39 41 56 61
+Item to insert (-999 to stop): 38
+Leaf count: 4
+Level by level: 50 40 60 39 41 56 61 38
+Item to insert (-999 to stop): 42
+Leaf count: 4
+Level by level: 50 40 60 39 41 56 61 38 42
+Item to insert (-999 to stop): 37
+Leaf count: 4
+Level by level: 50 40 60 39 41 56 61 38 42 37
+Item to insert (-999 to stop): 36
+Leaf count: 4
+Level by level: 50 40 60 39 41 56 61 38 42 37 36
+Item to insert (-999 to stop): 31
+Leaf count: 4
+Level by level: 50 40 60 39 41 56 61 38 42 37 36 31
+Item to insert (-999 to stop): 31
+Item already in the tree
+Leaf count: 4
+Level by level: 50 40 60 39 41 56 61 38 42 37 36 31
+Item to insert (-999 to stop): 29
+Leaf count: 4
+Level by level: 50 40 60 39 41 56 61 38 42 37 36 31 29
+Item to insert (-999 to stop): 32
+Leaf count: 5
+Level by level: 50 40 60 39 41 56 61 38 42 37 36 31 29 32
+Item to insert (-999 to stop): 48
+Leaf count: 5
+Level by level: 50 40 60 39 41 56 61 38 42 37 48 36 31 29 32
+Item to insert (-999 to stop): 45
+Leaf count: 5
+Level by level: 50 40 60 39 41 56 61 38 42 37 48 36 45 31 29 32
+Item to insert (-999 to stop): 49
+Leaf count: 6
+Level by level: 50 40 60 39 41 56 61 38 42 37 48 36 45 49 31 29 32
+Item to insert (-999 to stop): 57
+Leaf count: 6
+Level by level: 50 40 60 39 41 56 61 38 42 57 37 48 36 45 49 31 29 32
+Item to insert (-999 to stop): 55
+Leaf count: 7
+Level by level: 50 40 60 39 41 56 61 38 42 55 57 37 48 36 45 49 31 29 32
+Item to insert (-999 to stop): 70
+Leaf count: 7
+Level by level: 50 40 60 39 41 56 61 38 42 55 57 70 37 48 36 45 49 31 29 32
+Item to insert (-999 to stop): 69
+Leaf count: 7
+Level by level: 50 40 60 39 41 56 61 38 42 55 57 70 37 48 69 36 45 49 31 29 32
+Item to insert (-999 to stop): 71
+Leaf count: 8
+Level by level: 50 40 60 39 41 56 61 38 42 55 57 70 37 48 69 71 36 45 49 31 29 32
+Item to insert (-999 to stop):
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

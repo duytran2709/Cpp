@@ -1,0 +1,71 @@
+Welcome to CSUMB Bank
+Select your choice:
+         1. Read customer data file
+         2. Close an account
+         3. Customer Info
+         4. Bank Info
+         5. Exit
+1
+Enter file name: C:\\temp\\data1.txt
+Read data.......
+
+         SSN: 7777
+         Name: Tom Smith
+         Account Number: 1000
+         Account Type: Checking
+         Balance: $10
+
+         SSN: 8888
+         Name: Alice Smith
+         Account Number: 2000
+         Account Type: Checking
+         Balance: $50.25
+
+         SSN: 9999
+         Name: Joe Otter
+         Account Number: 5000
+         Account Type: Checking
+         Balance: $100.25
+
+Welcome to CSUMB Bank
+Select your choice:
+         1. Read customer data file
+         2. Close an account
+         3. Customer Info
+         4. Bank Info
+         5. Exit
+2
+Enter Account Number: 5000
+Enter Customer SSN: 9999
+Account Closed
+         Name: Joe Otter
+         Account Number: 5000
+         Account Type: Checking
+         Balance: $100.25
+
+Welcome to CSUMB Bank
+Select your choice:
+         1. Read customer data file
+         2. Close an account
+         3. Customer Info
+         4. Bank Info
+         5. Exit
+4
+
+Number of Accounts: 3
+        1000: $10 (checking)
+        2000: $50.25 (checking)
+
+Number of Customers: 3
+        Tom Smith: 7777 - 1000, ($10),
+        Alice Smith: 8888 - 2000, ($50.25),
+        Joe Otter: 9999 -
+        Total Balance: $60.25
+
+Welcome to CSUMB Bank
+Select your choice:
+         1. Read customer data file
+         2. Close an account
+         3. Customer Info
+         4. Bank Info
+         5. Exit
