@@ -1,0 +1,6 @@
+*.pdf
+*.ppt
+*.docs
+*.mp4
+
+!/Programming\ Materials/*
